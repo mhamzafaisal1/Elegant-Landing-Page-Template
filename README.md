@@ -1,3 +1,21 @@
+# Landing Page Project built using React.JS, Redux for state management & Styled Components for Styling.
+
+![Screenshot 2022-06-02 220223](https://user-images.githubusercontent.com/89999527/171685835-65c7ead6-d2f9-4403-b816-44e4e1280278.png)
+
+![Screenshot 2022-06-02 220352](https://user-images.githubusercontent.com/89999527/171685777-ddf0e1ab-c935-4501-965c-e67c153f19cd.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
